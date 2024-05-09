@@ -1,4 +1,4 @@
 # Prasanna-demo
 This is my First Git Repository.
 <br>
-Author-Prasanna Adhikari
+Author-Prasanna(adk)
